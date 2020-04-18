@@ -1,0 +1,78 @@
+.fa {
+    font-size: 20px;
+  }
+.footer-icon{
+    font-size: 50px;
+    width: 50px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+  .fa:hover {
+    opacity: 0.5;
+}
+.github {
+    color: black;
+  }
+.linkedin {
+    color: #0177b5;
+  }
+.email {
+    color: white;
+  }
+  
+.menu{
+    background-color: #ff6105;
+}
+.overlay{
+    margin-top: 200px;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.9);
+  }
+
+.aboutBox{
+    background-color: teal;
+    color: white;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important; 
+}
+#about-me{
+    margin: 20px;
+}
+.jobcard{
+      margin-top: 20px;
+      margin-bottom: 20px;
+      color: white;
+      background-color: teal;
+      padding: 20px !important;
+  }
+.location{
+    font-size: 30px;
+  }
+.jobTitle{
+      font-size: 20px;
+  }
+.bar{
+      font-size: 30px;
+  }
+.cardimg{
+  }
+
+.card-title{
+text-shadow: 2px 2px 8px rgba(0,0,0,0.9);
+}
+#buttoncol{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+#download{
+    background-color: #ff6105;
+}
+
+.row{
+margin: 0px !important;
+}
+
+.portfolioCard{
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
