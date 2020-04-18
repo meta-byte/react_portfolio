@@ -1,0 +1,34 @@
+[
+    {
+        "ID": "Canopy",
+        "Company": "Canopy",
+        "Title": "IT Support Specialist",
+        "Duration": "September 2019 - Present",
+        "Description": "Dedicated IT support technician for needs within the Canopy office. Troubleshooting of hardware, software and network issues. Inventory equipment and replace as needed. Create documentation for IT policies and current infrastructure configurations. Provisioning and deprovisioning of resources for Canopy employees. Other projects as needed by the DevOps team.",
+        "Image": "./assets/images/Canopy.png"
+    },
+    {
+        "ID": "Dell",
+        "Company": "Dell EMC",
+        "Title": "Technical Support Engineer Level I",
+        "Duration": "August 2017 - June 2018",
+        "Description": "Member of the Dell EMC Recoverpoint product team. Completed Information Storage and Management v3 certification. Completed Dell EMC Recoverpoint product certification. Worked with end users to troubleshoot data protection and recovery systems. Provided end users with Dell EMC recommended storage procedures. Frequent system log analysis. Troubleshooting of both physical and virtual storage environments. Dispatch field technicians to replace or re-install components in customer environments.",
+        "Image": "./assets/images/dellemc.png"
+    },
+    {
+        "ID": "Revere",
+        "Company": "Revere Health",
+        "Title": "IT Service Desk Analayst Level II",
+        "Duration": "May 2015 - June 2017",
+        "Description": "Support of end users in both software and hardware. Take support phone calls and dispatch analysts to off site locations. Troubleshooting of hardware and software. Replacing of computer components and the provisioning and placement of computer systems. Time as an on-call analyst. Understanding of DNS, DHCP and basic network infrastructure.",
+        "Image": "./assets/images/reverehealth.png"
+    },
+    {
+        "ID": "Xactware",
+        "Company": "Xactware",
+        "Title": "Structural QA Coordinator",
+        "Duration": "August 2014 - May 2015",
+        "Description": "Conduct construction cost research, update database with ﬁndings, analyze data & submit price changes for national subscribers.",
+        "Image": "./assets/images/exactware.png"
+    }
+]
