@@ -1,0 +1,50 @@
+[
+    {
+        "ID": "Password",
+        "Title": "Password Generator",
+        "Description": "My first real Javascript project, this password generator is designed to allow a user to create a secure password of a custom length using lowercase letters, uppercase letters, numbers, and symbols.",
+        "Image": "./assets/images/passwordgenerator.png",
+        "Live": "https://meta-byte.github.io/password_generator/",
+        "Repo": "https://github.com/meta-byte/password_generator"
+    },
+    {
+        "ID": "Weather",
+        "Title": "Weather Dashboard",
+        "Description": "An app that presents accurate weather information via the Open Weather API. Previous searches are remembered and the last searched city is presented on page load. The goal was to practice the imnplementation of a third party API update the page dynamically.",
+        "Image": "./assets/images/weatherdashboard.png",
+        "Live": "https://meta-byte.github.io/weather_dashboard/",
+        "Repo": "https://github.com/meta-byte/weather_dashboard"
+    },
+    {
+        "ID": "Quiz",
+        "Title": "Coding Quiz App",
+        "Description": "I created this quiz app to test my ability to dynamically generate and alter HTML elements with Javascript and JQuery. It tests users on their knowledge of a chosen topic, in this case web development. The questions are stored in an array on a seperate Javascript file.",
+        "Image": "./assets/images/codingquiz.png",
+        "Live": "https://meta-byte.github.io/coding_quiz/",
+        "Repo": "https://github.com/meta-byte/coding_quiz"
+    },
+    {
+        "ID": "Ski",
+        "Title": "Ski Resort Weather App",
+        "Description": "An application that utilizes the Weather Unlocked API to search snow depth and weather conditions at a specific ski resort. It then displays that info in a dashboard and includes a google map with a pin at the resort's location.",
+        "Image": "./assets/images/skiresortreport.png",
+        "Live": "https://meta-byte.github.io/Ski_Resort_Weather_Report/",
+        "Repo": "https://github.com/meta-byte/Ski_Resort_Weather_Report"
+    },
+    {
+        "ID": "Profile",
+        "Title": "Profile Generator",
+        "Description": "A command line application that allows a user to enter a github username and a color and a simple profile will be generated in PDF format. The profile gathers this information from the Github API. The Materialize CSS framework was used for the styling of the profile.",
+        "Image": "./assets/images/profile_generator.png",
+        "Live": "",
+        "Repo": "https://github.com/meta-byte/profile_generator"
+    },
+    {
+        "ID": "Employee",
+        "Title": "Employee Management System",
+        "Description": "A command line application that allows a user to manage employees via several prompts. The database schema consists of an employee table, a department table and a role table. Employees can be added or removed and roles can be updated. Departments can be viewed or added.",
+        "Image": "./assets/images/weatherdashboard.png",
+        "Live": "",
+        "Repo": "https://github.com/meta-byte/employee_tracker"
+    }
+]
