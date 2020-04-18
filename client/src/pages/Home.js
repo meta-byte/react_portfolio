@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Nav from "../components/Nav/Nav"
 import Footer from "../components/Footer/Footer";
 import Jobs from "../components/Jobs/Jobs";
+import Projects from "../components/Project/Projects";
 import "./style.css"
 
 
@@ -12,6 +13,7 @@ class Home extends Component {
         return (
             <div>
                 <Nav />
+
                 <div class="parallax-container">
                     <div class="parallax">
                         <img src="assets/images/portfolio photo.jpg" alt="" class="responsive-img" />
@@ -45,6 +47,29 @@ class Home extends Component {
                 </div>
 
                 <Jobs />
+
+                <div class="row">
+                    <div class="col s12 center" id="buttoncol">
+                        <a href="assets/files/Garrett Resume.pdf" download="Garrett_Howard_Resume"
+                            class="waves-effect waves-light btn center" id="download"><i
+                                class="material-icons right">file_download</i>Download My
+                        Resume</a>
+
+                    </div>
+                </div>
+
+
+                <div class="parallax-container">
+                    <div class="parallax">
+                        <img src="assets/images/greg-rakozy-vw3Ahg4x1tY-unsplash.jpg" alt="" class="responsive-img" />
+                    </div>
+                    <a name="projects"></a>
+                    <div class="overlay">
+                        <h1 class="center white-text">Projects</h1>
+                    </div>
+                </div>
+
+                <Projects />
 
                 <Footer />
             </div>
